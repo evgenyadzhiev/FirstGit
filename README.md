@@ -49,3 +49,8 @@ git checkout main
 ```bash
 git add .
 ```
+
+9. Log command
+```bash
+git log
+```
