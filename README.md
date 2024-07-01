@@ -8,7 +8,7 @@
 git clone https://github.com/<user name>/<repo name>.git
 ```
 
-2. Checkthe status of git repo
+2. Check the status of git repo
 
 ```bash
 git status
